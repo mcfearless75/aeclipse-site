@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(bash \"C:/Users/LAPTOP80/.claude/plugins/cache/claude-plugins-official/superpowers/5.0.7/skills/brainstorming/scripts/start-server.sh\" --project-dir \"C:/Users/LAPTOP80/Desktop/_Apps_Code/ALL APPS/aeclipse\")",
+      "Bash(xargs cat *)",
+      "Skill(firecrawl-map)",
+      "Skill(firecrawl-map:*)",
+      "Bash(python \"C:/Users/LAPTOP80/.claude/skills/ui-ux-pro-max/scripts/search.py\" \"fintech compliance B2B SaaS professional trust\" --design-system -p \"AEclipse\" -f markdown)",
+      "Bash(gh auth *)"
+    ]
+  }
+}
