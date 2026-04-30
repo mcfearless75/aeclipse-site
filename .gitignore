@@ -1,5 +1,9 @@
 .superpowers/
 docs/superpowers/
+.claude/
+.claude-flow/
+.swarm/
+.hive-mind/
 .DS_Store
 Thumbs.db
 *.log
