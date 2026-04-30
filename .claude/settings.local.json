@@ -6,7 +6,8 @@
       "Skill(firecrawl-map)",
       "Skill(firecrawl-map:*)",
       "Bash(python \"C:/Users/LAPTOP80/.claude/skills/ui-ux-pro-max/scripts/search.py\" \"fintech compliance B2B SaaS professional trust\" --design-system -p \"AEclipse\" -f markdown)",
-      "Bash(gh auth *)"
+      "Bash(gh auth *)",
+      "Bash(gh api *)"
     ]
   }
 }
